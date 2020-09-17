@@ -23,8 +23,10 @@
  */
 package ta4jexamples.analysis;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
+@Ignore
 public class CashFlowToChartTest {
 
     @Test

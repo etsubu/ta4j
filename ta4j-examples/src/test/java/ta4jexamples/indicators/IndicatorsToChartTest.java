@@ -23,8 +23,10 @@
  */
 package ta4jexamples.indicators;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
+@Ignore
 public class IndicatorsToChartTest {
 
     @Test
